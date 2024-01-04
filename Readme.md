@@ -72,8 +72,7 @@ I am a student majoring in informatics who is currently studying for an undergra
   </a>
   <br>
   
-<p align="right" > Created with 🖤 by <a href="https://www.instagram.com/rvldilhmm/">Revaldo Ilham Maulana</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+<p align="center" > Created with 🖤 by <a href="https://www.instagram.com/rvldilhmm/">Revaldo Ilham Maulana</a></p>
 
 -----
 
