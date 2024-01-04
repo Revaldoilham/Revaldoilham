@@ -49,7 +49,6 @@ I am a student majoring in informatics who is currently studying for an undergra
 
 
   <img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
-  ---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
