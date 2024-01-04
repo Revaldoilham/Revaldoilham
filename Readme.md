@@ -7,7 +7,8 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I am a student majoring in informatics who is currently studying for an undergraduate degree at one of the state universities in Yogyakarta (Yogyakarta Technology University).
+<p align="center">Hi, I'm Revaldo Ilham Maulana, I'm a programmer from Jepara, Central Java. I'm a student majoring in Informatics who is currently studying for an undergraduate degree at one of the state universities in Yogyakarta (Yogyakarta Technology University).
+</p>
 
 * 🧐   ( Proses ).
 * 💼   ( Proses ).
