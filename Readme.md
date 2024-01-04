@@ -77,10 +77,10 @@ I am a student majoring in informatics who is currently studying for an undergra
   <br>
   
 ----
-
+<p align="center" > Created with ❤️ by <a href="https://www.instagram.com/rvldilhmm/">Revaldo Ilham Maulana</a></p>
 
 
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-<p align="center" > Created with ❤️ by <a href="https://www.instagram.com/rvldilhmm/">Revaldo Ilham Maulana</a></p>
+
