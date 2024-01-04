@@ -71,8 +71,8 @@ I am a student majoring in informatics who is currently studying for an undergra
     <img align="left" alt="Revaldo Ilham Maulana| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
-  
+ ----- 
 <p align="center" > Created with 🖤 by <a href="https://www.instagram.com/rvldilhmm/">Revaldo Ilham Maulana</a></p>
 
------
+
 
