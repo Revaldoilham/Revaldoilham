@@ -82,3 +82,4 @@ I am a student majoring in informatics who is currently studying for an undergra
 
 
 
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
