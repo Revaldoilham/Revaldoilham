@@ -16,7 +16,7 @@ I am a student majoring in informatics who is currently studying for an undergra
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
-
+-----
   ### 🛠 &nbsp;Languages & Tools I Know...
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -49,4 +49,13 @@ I am a student majoring in informatics who is currently studying for an undergra
 
 
   <img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
+  ---
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linktr.ee/rafialief"><img src="https://img.shields.io/badge/-linktr.ee/rafialief-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+</p>
+
+-----
 
