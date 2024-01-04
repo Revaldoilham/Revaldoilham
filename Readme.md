@@ -54,7 +54,7 @@ I am a student majoring in informatics who is currently studying for an undergra
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linktr.ee/rafialief"><img src="https://img.shields.io/badge/-linktr.ee/rafialief-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.instagram.com/rvldilhmm/"><img src=""/></a>
 </p>
 
 -----
