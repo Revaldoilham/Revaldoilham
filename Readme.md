@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
-<img align="center" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
+<img align="left" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
