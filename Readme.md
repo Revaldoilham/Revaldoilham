@@ -50,11 +50,30 @@ I am a student majoring in informatics who is currently studying for an undergra
 
   <img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.instagram.com/rvldilhmm/"><img src="https://img.shields.io/badge/-@rvldilhmm-fc0384 style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/revaldo-ilham-5ab4542a8/">
+   <img align="left" alt=" Revaldo Ilham Maulana | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="revaldoilham.aa01@gmail.com">
+    <img align="left" alt="Revaldo Ilham Maulana | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="">
+    <img align="left" alt="Revaldo Ilham Maulana | twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+  <a href="https://www.instagram.com/rvldilhmm/">
+    <img align="left" alt="Revaldo Ilham Maulana | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+   <a href="">
+    <img align="left" alt="Revaldo Ilham Maulana| facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+   <a href="https://github.com/Revaldoilham/">
+    <img align="left" alt="Revaldo Ilham Maulana| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
+  
+<p align="right" > Created with 🖤 by <a href="https://www.instagram.com/rvldilhmm/">Revaldo Ilham Maulana</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
 
 -----
 
