@@ -5,7 +5,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+I am a student majoring in informatics who is currently studying for an undergraduate degree at one of the state universities in Yogyakarta (Yogyakarta Technology University).
 
 * 🧐   Interested in full stack. Recent focus on Infra.
 * 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
