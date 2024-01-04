@@ -16,7 +16,9 @@ I am a student majoring in informatics who is currently studying for an undergra
 * 💻   ( Proses ).
 * ⛵   ( Proses ).
 * ✍🏻   ( Proses ).
------
+  
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
   ### 🛠 &nbsp;Languages & Tools I Know...
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -45,7 +47,7 @@ I am a student majoring in informatics who is currently studying for an undergra
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
----
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
 
   <img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
@@ -73,7 +75,8 @@ I am a student majoring in informatics who is currently studying for an undergra
   </a>
   <br>
   
------
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
 <p align="center" > Created with 🖤 by <a href="https://www.instagram.com/rvldilhmm/">Revaldo Ilham Maulana</a></p>
 
 
