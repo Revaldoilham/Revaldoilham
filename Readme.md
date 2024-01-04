@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
-<img align="left" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
+
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
@@ -16,4 +16,5 @@ I am a student majoring in informatics who is currently studying for an undergra
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
+  <img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
 
