@@ -7,7 +7,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<p align="center">Hi, I'm Revaldo Ilham Maulana, I'm a programmer from Jepara, Central Java. I'm currently studying for a bachelor's degree in informatics at a university in Yogyakarta (Yogyakarta Technology University).
+<p align="center">Hi, I'm Revaldo Ilham Maulana, I'm a programmer from Jepara, Central Java. I'm currently studying for a bachelor's degree in informatics at a university in Yogyakarta (University Technology of Yogyakarta).
 </p>
 
 * 🧐   ( Proses ).
@@ -70,17 +70,17 @@
   <a href="https://www.linkedin.com/in/revaldo-ilham-5ab4542a8/">
    <img align="left" alt=" Revaldo Ilham Maulana | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="revaldoilham.aa01@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img align="left" alt="Revaldo Ilham Maulana | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="">
-    <img align="left" alt="Revaldo Ilham Maulana | twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+    <img align="left" alt="" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
   <a href="https://www.instagram.com/rvldilhmm/">
     <img align="left" alt="Revaldo Ilham Maulana | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="">
-    <img align="left" alt="Revaldo Ilham Maulana| facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+    <img align="left" alt="" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://github.com/Revaldoilham/">
     <img align="left" alt="Revaldo Ilham Maulana| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
