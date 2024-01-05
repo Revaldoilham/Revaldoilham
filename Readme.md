@@ -70,8 +70,8 @@
   <a href="https://www.linkedin.com/in/revaldo-ilham-5ab4542a8/">
    <img align="left" alt=" Revaldo Ilham Maulana | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img align="left" alt="Revaldo Ilham Maulana | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="">
+    <img align="left" alt="" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="">
     <img align="left" alt="" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
