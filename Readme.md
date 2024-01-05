@@ -10,14 +10,11 @@
 <p align="center">Hi, I'm Revaldo Ilham Maulana, I'm a programmer from Jepara, Central Java. I'm currently studying for a bachelor's degree in informatics at a university in Yogyakarta (University Technology of Yogyakarta).
 </p>
 
-* 🧐   ( Proses ).
-* 💼   ( Proses ).
-* 🎓   ( Proses ).
-* 🌱   ( Proses ).
-* 📚   ( Proses ).
-* 💻   ( Proses ).
-* ⛵   ( Proses ).
-* ✍🏻   ( Proses ).
+* 👋 Hi, I’m @Revaldo Ilham
+* 👀 I’m interested in ...
+* 🌱 I’m currently learning ...
+* 💞️ I’m looking to collaborate on ...
+* 📫 How to reach me ...
   
 ----
 
